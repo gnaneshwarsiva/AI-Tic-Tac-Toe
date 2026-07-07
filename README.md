@@ -110,10 +110,39 @@ python main.py
 
 ## 📸 Screenshots
 
-### Home Screen
+### 🏠 Home Screen
 
-> *(Add screenshot here)*
+![Home](assets/home.png)
 
+---
+
+### 🎮 Gameplay
+
+![Gameplay](assets/gameplay.png)
+
+---
+
+### 🤖 Hard AI Mode
+
+![Hard AI](assets/hard-ai.png)
+
+---
+
+### 💡 Hint System
+
+![Hint](assets/hint-system.png)
+
+---
+
+### 🏆 Winner Detection
+
+![Winner](assets/winner.png)
+
+---
+
+### 🤝 Draw Game
+
+![Draw](assets/draw.png)
 ---
 
 ### Gameplay
